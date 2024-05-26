@@ -1,5 +1,10 @@
 ---
+<<<<<<< HEAD
 title: "assignment3"
+=======
+title: "project3"
+author: "Rowshni"
+>>>>>>> testbranch
 format: html
 editor: visual
 ---
